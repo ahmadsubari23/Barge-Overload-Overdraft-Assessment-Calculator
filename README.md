@@ -134,17 +134,13 @@ by providing:
 
 ### Overdraft Assessment
 
-*(Insert Screenshot 1 here)*
-
-![Overdraft Assessment](images/overdraft.png)
+![Overdraft Calculation](overdraft.png)
 
 ---
 
 ### Overload Assessment
 
-*(Insert Screenshot 2 here)*
-
-![Overload Assessment](images/overload.png)
+![Overload Calculation](overload.png)
 
 ---
 
