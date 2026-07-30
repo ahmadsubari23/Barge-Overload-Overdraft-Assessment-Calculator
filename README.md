@@ -155,14 +155,12 @@ Any confidential company information, vessel particulars, client data, or insura
 ## Author
 
 **Ahmad Subari**
+Claims Analyst | Marine Cargo Surveyor | Data Analytics Enthusiast
 
-Marine Cargo Surveyor & Adjuster
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmadsubari23
+- 💻 GitHub: https://github.com/ahmadsubari23
+- 📧 Email: ahmad.subari23@gmail.com
 
-LinkedIn:
-www.linkedin.com/in/ahmadsubari23
+---
 
-GitHub:
-https://github.com/ahmadsubari23
-
-Email:
-ahmad.subari23@gmail.com
+⭐ If you found this project interesting, please consider giving it a star!
